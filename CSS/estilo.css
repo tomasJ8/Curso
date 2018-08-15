@@ -1,0 +1,54 @@
+h1{
+    text-align: center;
+}
+label{
+      color: blue;
+}
+#contenedorform,
+
+.input{
+    margin-bottom:20px;
+}
+#contenedorform{
+    width: 960px;
+    text-align: center;
+    margin: 15px auto;
+}
+#menu{
+    text-align: center;
+    margin: 10px auto;
+    background-color: wheat;
+}
+ul,li,a{
+list-style: none;
+text-decoration: none;
+color: black;
+}
+#cabecera_princioal{
+    background-color: rebeccapurple;
+    width: 300%;
+}
+li a{
+    display: block;
+    color: brown;
+    padding: 10px 20px;
+    text-decoration: underline;
+}
+li a:hover{
+    background-color: cadetblue;
+    color: bisque;
+}
+header{
+    display: inline-block;
+    text-align: center;
+}
+#menu{
+    text-align: center;
+    display: flex;
+}
+table ,tr , th , td;{
+    border: 1px solid black;
+} 
+h2:first-letter{
+    font-size: 5em;
+}
